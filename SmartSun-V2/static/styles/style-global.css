@@ -1,0 +1,171 @@
+body {
+    /* background: rgb(0,90,150);
+    background: linear-gradient(90deg, rgba(0,90,150,1) 0%, rgba(55,185,255,1) 50%, rgba(0,200,255,1) 100%); */
+    background-color: #000;
+    display: grid;
+    grid-template-areas: 
+    "head head head"
+    "aside main main"
+    "aside main main"
+    "footer footer footer";
+    grid-template-rows: auto 1fr 1fr;
+    grid-template-columns: .25fr 1fr 1fr;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow: auto;
+}
+
+header {
+    grid-area: head;
+    padding: 0px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-bottom: solid rgba(255, 255, 255, 0.9) 4px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+aside {
+    grid-area: aside;
+    font-family: panton;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid rgba(255, 255, 255, 0.4) 4px;
+    border-top: none;
+    border-bottom: none;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: footer;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: solid rgba(255, 255, 255, 0.4) 4px;
+    border-bottom: none;
+}
+
+.header-txt {
+    font-family: panton;
+    padding: 0px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.information {
+    font-size: 20px;
+}
+
+.header-sub-txt {
+    font-family: panton;
+    padding: 0px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.nav-txt {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 20px;
+}
+
+.txt-header {
+    font-size: 20px;
+    font-family: panton;
+    color: rgba(255, 255, 255, 0.9); 
+}
+
+footer {
+    font-family: panton;
+    padding: 5px;
+    color: #fff;
+}
+
+.asidebtn {
+    width: 80%;
+    min-height: 50px;
+    margin: 5px;
+    font-family: panton;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid rgba(0, 0, 0, 0.8) 2px;
+}
+
+.asidebtn:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+#logoimg,
+#sunimg {
+    height: 100px;
+    width:  100px;
+    border-radius: 50px;
+}
+
+#logoimg {
+    margin-right: 3%;
+}
+
+#sunimg {
+    margin-left: 3%;
+}
+
+
+button {
+    min-width: 40px;
+    min-height: 20px;
+    margin: 5px;
+    font-family: panton;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid rgba(0, 0, 0, 0.8) 2px;
+}
+
+input {
+    width: 150px;
+    font-family: panton-light;
+    margin: 2px;
+}
+
+select {
+    width: 150px;
+    font-family: panton-light;
+    margin: 2px;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.notification {
+    position: fixed;
+    top: 10px;
+    right: calc(50% - 150px);
+    width: 300px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+@font-face {
+    font-family: Panton;
+    src: url('../assets/Panton-BlackCaps.otf') format('opentype');
+}
+
+@font-face {
+    font-family: Panton-light;
+    src: url('../assets/Panton-LightCaps.otf') format('opentype');
+}
+
+@font-face {
+    font-family: mono;
+    src: url('../assets/MonospaceTypewriter.ttf');
+}

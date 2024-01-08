@@ -1,0 +1,3219 @@
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 810
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 1038
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 91.27000000000001
+Requested_direction: cw
+Current_angle: 91.23046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 71.27
+Requested_direction: cw
+Current_angle: 71.19140625
+Requested_steps: 0
+
+--Step CW--
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 942
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 1542
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 135.57
+Requested_direction: cw
+Current_angle: 135.52734375
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 82.8
+Requested_direction: cw
+Current_angle: 82.79296875
+Requested_steps: 0
+
+--Step CW--
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 53, in getTimeFromServer
+    ntp_response, server = client.recvfrom(48)
+                           ^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/main.py", line 47, in <module>
+    ntptime = NTPtime()
+              ^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 41, in __init__
+    self.DST_in_effect = self._dstActive()
+                         ^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 67, in _dstActive
+    time_struct = time.localtime(self.getTimeFromServer())
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 60, in getTimeFromServer
+    return self._last_saved_time
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NTPtime' object has no attribute '_last_saved_time'
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 53, in getTimeFromServer
+    ntp_response, server = client.recvfrom(48)
+                           ^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/main.py", line 47, in <module>
+    ntptime = NTPtime()
+              ^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 41, in __init__
+    self.DST_in_effect = self._dstActive()
+                         ^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 67, in _dstActive
+    time_struct = time.localtime(self.getTimeFromServer())
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 60, in getTimeFromServer
+    return self._last_saved_time
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NTPtime' object has no attribute '_last_saved_time'
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 53, in getTimeFromServer
+    ntp_response, server = client.recvfrom(48)
+                           ^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/main.py", line 47, in <module>
+    ntptime = NTPtime()
+              ^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 41, in __init__
+    self.DST_in_effect = self._dstActive()
+                         ^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 67, in _dstActive
+    time_struct = time.localtime(self.getTimeFromServer())
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 60, in getTimeFromServer
+    return self._last_saved_time
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NTPtime' object has no attribute '_last_saved_time'
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 53, in getTimeFromServer
+    ntp_response, server = client.recvfrom(48)
+                           ^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun/main.py", line 47, in <module>
+    ntptime = NTPtime()
+              ^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 41, in __init__
+    self.DST_in_effect = self._dstActive()
+                         ^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 67, in _dstActive
+    time_struct = time.localtime(self.getTimeFromServer())
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun/Misc.py", line 60, in getTimeFromServer
+    return self._last_saved_time
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NTPtime' object has no attribute '_last_saved_time'
+setting up pin 17...
+setting up pin 27...
+setting up pin 22...
+setting up pin 23...
+setting up pin 24...
+setting up pin 5...
+setting up pin 6...
+setting up pin 16...
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 1001
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 0.0
+Requested_steps: 475
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STX
+Requested_angle: 41.81
+Requested_direction: cw
+Current_angle: 41.748046875
+Requested_steps: 0
+
+--Step CW--
+INCOMMING DATA:
+Selected_stepper: STY
+Requested_angle: 88.05
+Requested_direction: cw
+Current_angle: 87.978515625
+Requested_steps: 0
+
+--Step CW--
+fatal: detected dubious ownership in repository at '/home/nvree/Documents/SmartSun-V2/SmartSun-V2'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/nvree/Documents/SmartSun-V2/SmartSun-V2
+Error: Git repository update failed
+fatal: detected dubious ownership in repository at '/home/nvree/Documents/SmartSun-V2/SmartSun-V2'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/nvree/Documents/SmartSun-V2/SmartSun-V2
+Error: Git repository update failed
+fatal: detected dubious ownership in repository at '/home/nvree/Documents/SmartSun-V2/SmartSun-V2'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/nvree/Documents/SmartSun-V2/SmartSun-V2
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/SmartSunController/SmartSunCore/Misc.py", line 45, in getTimeFromServer
+    serveraddress = socket.gethostbyname(self._timeserver)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/app.py", line 18, in <module>
+    controller = Controller()
+                 ^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/SmartSunController/Controller.py", line 60, in __init__
+    self.ntptime = NTPtime()
+                   ^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/SmartSunController/SmartSunCore/Misc.py", line 38, in __init__
+    self.DST_in_effect = self._dstActive()
+                         ^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/SmartSunController/SmartSunCore/Misc.py", line 64, in _dstActive
+    time_struct = time.localtime(self.getTimeFromServer())
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nvree/Documents/SmartSun-V2/SmartSun-V2/SmartSunController/SmartSunCore/Misc.py", line 57, in getTimeFromServer
+    return self._last_saved_time
+           ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NTPtime' object has no attribute '_last_saved_time'
+[Controller] finished.

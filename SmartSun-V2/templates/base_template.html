@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">  
+    <head>
+        <title>SmartSun</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.8">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style-global.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style-extra.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style-home.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/style-settings.css') }}">
+        <script src="{{ url_for('static', filename='scripts/script.js') }}"></script>
+        <script src="{{ url_for('static', filename='scripts/malfunction.js') }}"></script>
+        <script src="{{ url_for('static', filename='scripts/notifications.js' )}}"></script>
+    </head>
+    <body>
+        {% if malfunction_number %}
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                handleMalfunction('{{ malfunction_number }}', '{{ malfunction_reason }}');
+            });
+        </script>
+        {% endif %}
+        <header>
+            <img id="sunimg" src="{{ url_for('static', filename='assets/sun.gif') }}">
+            <div>
+                <p class="header-txt">Welcome to SmartSun version 2.0</p>
+                <p class="header-sub-txt">Your Solar Panels. On steroids.</p>
+            </div>
+            <img id="logoimg" src="{{ url_for('static', filename='assets/ntdevlogo.png') }}">
+        </header>
+        <aside>
+            <p class="nav-txt">Navigation</p>
+            <button class="asidebtn" onClick=showWelcome()>Welcome</button>
+            <button class="asidebtn" onClick=showSetup()>Setup</button>
+        </aside>
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+        <footer>Written by NTDev Technology - version {{version}}</footer>
+        <div id="notCon"></div>
+    </body>
+</html>

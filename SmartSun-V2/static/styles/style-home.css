@@ -1,0 +1,44 @@
+/* Welcome env */
+.informational-container,
+.welcome-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: solid rgba(255, 255, 255, 0.6) 4px;
+    border-radius: 0px;
+    margin: 8px;
+    margin-top: 5px;
+}
+
+.informational-container {
+    margin-top: 50px;
+}
+
+.sun-container {
+    text-align: center;
+}
+
+.sunstatus,
+.system-information {
+    font-size: 14px;
+    font-family: mono;
+    text-align: start;
+    color: #fff;
+}
+
+
+.info-txt {
+    font-size: 12px;
+    font-family: panton-light;
+    text-align: center;
+    color: #fff;
+}
+
+.welcome-text-container {
+    font-family: panton;
+    text-align: center;
+}
+
+
+
+/* end of welcome env */

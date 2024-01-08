@@ -1,0 +1,92 @@
+{% extends 'base_template.html' %}
+
+{% block content %}
+    <div class="setup-container">
+
+        <div class="setupitem" id="setTime">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class="contentHeader">Time Source</p>
+            <label id="time_lbl" for="SelectTime"></label>
+                <select id="SelectTime" name="SelectTime">
+                    <option value="time_server">Time Server</option>
+                    <option value="system">System</option>
+                    <option value="manual">Manual</option>
+                </select>
+            <button onclick="sendData('setTime')">Enter</button>
+        </div>
+        
+        <div class="setupitem" id="manTime">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class="contentHeader">Manual Time</p>
+            <input type="text" id="manualTimeInput" placeholder="2000/1/1/12/0/0">
+            <button onclick="sendData('manTime')">Enter</button>
+        </div>
+
+        <div class="setupitem" id="MoveCords">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class='contentHeader'>Manual (stepper) Coordinates</p>
+            <input type="text" id="manualCordInputAzim" placeholder="Azimuth-stepper">
+            <input type="text" id="manualCordInputElev" placeholder="Elevation-stepper">
+            <button onclick="sendData('MoveCords')">Enter</button>
+        </div>
+
+        <div class="setupitem" id="setupLocation">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class="contentHeader">Location</p>
+            <label id="location_lbl" for="location"></label>
+                <select id="location" name="location">
+                    <option value="Nl">Netherlands</option>
+                    <option value="UK">UK</option>
+                </select>
+            <button onclick="sendData('setLocation')">Enter</button>
+        </div>
+        
+        <div class="setupitem" id="testSetup">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class="contentHeader">Test</p>
+            <label id="testSelection" for="SelectedTest"></label>
+                <select id="SelectedTest" name="SelectedTest">
+                    <option value="display">Display</option>
+                    <option value="stpr_max">Max_out</option>
+                </select>
+            
+            <button onclick="sendData('testSetup')">Run Test</button>   
+        </div>
+
+        <div class="setupitem" id="setupCalcMethod">
+            <img id="closeimg" src="{{ url_for('static', filename='assets/close.png') }}" onclick="closeSetupItem(this)">
+            <p class="contentHeader">Calculation method</p>
+            <label id="CalculationMethod" for="SetupCalculationMethod"></label>
+                <select id="SetupCalculationMethod" name="SetupCalculationMethod">
+                    <option value="time_based">Time based (secs)</option>
+                    <option value="degree_based">Degree based</option>
+                    <option value="step_based">Step based</option>
+                </select>
+            
+                <br>
+            <p class="contentSub">Enter Value</p>
+            <label id="CalcValue" for="CalcValueInput"></label>
+            <input type="text" id="CalcValueInput" name="EnterCalcValue" placeholder="10">
+            <button onclick="sendData('setupCalcMethod')">Enter</button>   
+        </div>
+        
+        <div class="setupitem" id="System Options">
+            <p class="contentHeader">System Options</p>
+            <p class="contentSub">Reset UI</p>
+            <button class="resetUI" onclick="resetSetupItems()">Reset</button>
+
+            <p class="contentSub">Select power operation</p>
+            <label id="PowerOperation" for="Power"></label>
+                <select id="Power" name="Power">
+                    <option value="power_cycle">Power cycle</option>
+                    <option value="shut_down">Shut down</option>
+                </select>
+            <button onclick="sendData('SelectedPowerOperation')">Enter</button>
+            
+            <div id="confirmPowerAction">
+                <button onclick="sendData('confirmPowerAction')">Confirm</button>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}

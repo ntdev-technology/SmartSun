@@ -1,0 +1,55 @@
+/* Setup env */
+.setup-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.setupitem {
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid rgba(255, 255, 255, 0.6) 4px;
+    margin: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 20px;
+    font-family: panton;
+    width: 400px;
+    height: 200px;
+    border-radius: 0px;
+    padding: 1%;
+}
+
+.contentHeader {
+    font-family: panton;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0px;
+    padding: 0px;
+}
+
+.contentSub {
+    font-family: panton;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0px;
+    padding: 0px;
+}
+
+.resetUI {
+    max-width: 100px;
+}
+
+#closeimg {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: 4px;
+    top: 0;
+    right: 0;
+}
+
+/* end of setup env */
