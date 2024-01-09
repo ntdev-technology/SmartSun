@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "© SmartSun EZ-Start"
+echo "Bash script written by NTDev-Technology 2024"
 
 STANDARD="SmartSun-V2" # Auto option for CRON
 PATH_V1="./SmartSun-V1/main.py"
