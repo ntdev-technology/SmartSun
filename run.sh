@@ -48,7 +48,9 @@ while true; do
             gunicorn -b 0.0.0.0:80 wsgi:app --reload;;
         "3")
             echo "Updating SmartSun from NTDev-Technology"
-            # Implement logic to auto-update from git
+            git pull --force origin main
+            echo "Exitting SmartSun user prompt..."
+            exit 0
             ;;
         "4")
             echo "Exitting SmartSun user prompt..."
