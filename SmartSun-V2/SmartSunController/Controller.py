@@ -70,6 +70,7 @@ class Controller():
 
 
     def __del__(self):
+        self.stop_all()
         print(f"[{self._classname}] finished.")
     
     @property
@@ -263,15 +264,18 @@ class Controller():
         match self.TimeCtr:
             case 'manual':
                 man_time = self._memory()[0]
-                _adjust_timezone = False
+                 _adjust_timezone = False if self.ntptime.DST_in_effect else True
                 _man_time = man_time
             case 'time_server':
                 ntp_time = self.ntptime.FormattedNTPTime()
                 _adjust_timezone = False if self.ntptime.DST_in_effect else True
                 _man_time = ntp_time
             case 'system':
-                _adjust_timezone = False
+                _adjust_timezone = False if self.ntptime.DST_in_effect else True # My guess, not tested in DST...
                 system_time= True
+        
+        tz = self.timezone
+        tz += 1 if _adjust_timezone else 0
         
         tz = self.timezone
         tz -= 1 if _adjust_timezone else 0       
