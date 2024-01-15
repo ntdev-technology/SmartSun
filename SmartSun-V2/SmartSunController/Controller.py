@@ -264,7 +264,7 @@ class Controller():
         match self.TimeCtr:
             case 'manual':
                 man_time = self._memory()[0]
-                 _adjust_timezone = False if self.ntptime.DST_in_effect else True
+                _adjust_timezone = False if self.ntptime.DST_in_effect else True
                 _man_time = man_time
             case 'time_server':
                 ntp_time = self.ntptime.FormattedNTPTime()
