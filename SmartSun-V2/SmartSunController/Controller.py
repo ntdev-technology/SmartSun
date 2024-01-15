@@ -275,7 +275,7 @@ class Controller():
                 system_time= True
         
         tz = self.timezone
-        tz += 1 if _adjust_timezone else 0
+        tz += 1 if _adjust_timezone else 0
      
         obj = SmartSunPos(use_system_time=system_time, man_time=_man_time, return_time=True, location=location, timezone=tz, refraction=True)
         azimuth, elevation, returned_time = obj.sun_position
