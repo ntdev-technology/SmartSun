@@ -11,7 +11,7 @@ import subprocess
 app = Flask(__name__)
 app.secret_key = secrets.token_hex(24)
 
-version_info = (1, 2, "delta-1")
+version_info = (1, 3, "delta-1")
 _debug = True
 __version__ = '.'.join([str(x) for x in version_info])
 _time_of_init = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
