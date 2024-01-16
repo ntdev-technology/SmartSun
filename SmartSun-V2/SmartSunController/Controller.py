@@ -70,7 +70,6 @@ class Controller():
 
 
     def __del__(self):
-        self.stop_all()
         print(f"[{self._classname}] finished.")
     
     @property
