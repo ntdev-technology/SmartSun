@@ -16,7 +16,7 @@ while [[ $# -gt 0 ]]; do
             
             if [ "$STANDARD" == "SmartSun-V2" ]; then
                 cd "$PATH_V2"
-                gunicorn wsgi:app --bind 0.0.0.0:80;; #--workers 1 --timeout 100
+                gunicorn wsgi:app --bind 0.0.0.0:80 #--workers 1 --timeout 100
             elif [ "$STANDARD" == "SmartSun-V1" ]; then
                 python3.11 "$PATH_V1" -c
             else
