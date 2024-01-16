@@ -162,9 +162,12 @@ def process_setup_data():
         elif item_id == 'confirmPowerAction':
             if _debug: print(f"Ready: {input_data}")
             if extra_field == 'power_cycle':
-                controller.
+                controller.stopThreadedJob()
+                controller.stop_all()
                 subprocess.call(["shutdown", "-r", "-t", "0", "-h"])
             elif extra_field == 'shut_down':
+                controller.stopThreadedJob()
+                controller.stop_all(
                 subprocess.call(["shutdown", "-t", "0", "-h"])
         elif item_id == 'manTime':
             if not extra_field == '':
