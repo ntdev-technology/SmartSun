@@ -25,7 +25,7 @@ class VSI():
         return self.__class__.__name__
 
     def __del__(self):
-        self.disp.lcd_send_command('CS')
+        #self.disp.lcd_send_command('CS'), this implementation doesn't work (which makes absolutely sense). And also, the display doesnt support it.
         print(f'[{self._classname}] finished.')
 
     def mem_print(self, msg, cline: int = None, center: bool = True):
