@@ -17,7 +17,6 @@ class Controller():
         self._SETTINGS_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'setup.ini')
         self._MEMORY_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'memory.ini')
         self._STATUS = 'Ok'
-        self._IN_MOVEMENT = False
         self.MALFUNCTION = None
 
         self.integrety_check()
