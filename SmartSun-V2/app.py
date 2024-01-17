@@ -167,7 +167,7 @@ def process_setup_data():
                 subprocess.call(["shutdown", "-r", "-t", "0", "-h"])
             elif extra_field == 'shut_down':
                 controller.stopThreadedJob()
-                controller.stop_all(
+                controller.stop_all()
                 subprocess.call(["shutdown", "-t", "0", "-h"])
         elif item_id == 'manTime':
             if not extra_field == '':
