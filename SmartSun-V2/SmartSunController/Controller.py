@@ -371,6 +371,13 @@ class Controller():
     def manMove(self, x, y):
         if self.debug: print(f'[{self._classname}] moving to: {x}, {y}')
         self._StepperMV(azim=x, elev=y)
+        
+        # the next section writes the current cords as they are calculated by the formula.
+        # this helps the system recover after a man_cord.
+        y = 90 - y  if self.adjust_perpendicular_angle_elev else x
+        x = x - 90 if self.adjust_perpendicular_angle_azim else y
+        self.Stepper_save = [x, y]
+        self._memory(store=True)
 
 
     def _StepperMV(self, azim, elev):
